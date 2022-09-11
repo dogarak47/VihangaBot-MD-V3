@@ -1,8 +1,8 @@
-# VIHANGA-BOT-MD
+# DOGAR-BOT-MD
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-    Vihanga MD V3...
+    DOGAR MD V4...
 
     [©] New Features
 
@@ -34,21 +34,21 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/THTK67m/Vihanga-MD.png" alt="GIF" width="300" height="270"/>
+<img src="https://i.ibb.co/THTK67m/DOGAR-MD.png" alt="GIF" width="300" height="270"/>
 
 </p>
 
   <p align="center">
 
-<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="DOGARMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
 </div>
 
-<p align="center">By Vihanga YT>| © | Reserved  </br> 
+<p align="center">By DOGAR YT>| © | Reserved  </br> 
  
- ## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
+ ## My Website : [Click Heare](https://sites.google.com/view/dogabot-md/vihangamd)
 
 1. Click [SCAN](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
@@ -62,7 +62,7 @@
 
 
 ## Owner:
-* [`Vihanga-YT`](https://github.com/vihangayt0)
+* [`DOGAR-YT`](https://github.com/dogaryt0)
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
